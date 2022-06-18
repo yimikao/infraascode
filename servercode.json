@@ -2,5 +2,9 @@
 	{
 		"ParameterKey": "EnvironmentName",
 		"ParameterValue": "UdacityProject2"
-	}
+	},
+    {
+        "ParameterKey": "Instance",
+        "ParameterValue": "t3.medium"
+    }
 ]
